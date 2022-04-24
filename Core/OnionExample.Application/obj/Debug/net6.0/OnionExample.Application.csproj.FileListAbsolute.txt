@@ -1,0 +1,12 @@
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/bin/Debug/net6.0/OnionExample.Application.deps.json
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/bin/Debug/net6.0/OnionExample.Application.dll
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/bin/Debug/net6.0/ref/OnionExample.Application.dll
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/bin/Debug/net6.0/OnionExample.Application.pdb
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.csproj.AssemblyReference.cache
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.AssemblyInfoInputs.cache
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.AssemblyInfo.cs
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.csproj.CoreCompileInputs.cache
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.dll
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/ref/OnionExample.Application.dll
+/Users/onur/repos/OnionExample/src/Core/OnionExample.Application/obj/Debug/net6.0/OnionExample.Application.pdb
